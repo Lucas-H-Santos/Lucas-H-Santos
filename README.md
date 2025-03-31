@@ -1,11 +1,11 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Lucas 👋
 
 <div align="center">
   <img src="https://seu-banner-personalizado.jpg" width="800px">
 </div>
 
 ## 💫 Sobre mim
-Desenvolvedor apaixonado por [suas áreas de interesse]. Atualmente trabalhando com [tecnologias atuais] e aprendendo [o que está estudando].
+Desenvolvedor apaixonado por Programação, IA e Roboticas. Atualmente trabalhando com Programção com IA e aprendendo mais sobre Engenharia de Prompting.
 
 <br>
 
