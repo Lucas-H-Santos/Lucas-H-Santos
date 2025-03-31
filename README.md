@@ -5,7 +5,7 @@
 </div>
 
 ## 💫 Sobre mim
-Desenvolvedor apaixonado por Programação Web, Inteligencia artificial. Atualmente trabalhando com Programação WEB utilizando Inteligencia Artificial e aprendendo Engenharia de Prompting.
+Desenvolvedor apaixonado por Programação Web, Inteligencia artificial e Robotica em Geral. Atualmente trabalhando com Programação WEB utilizando Inteligencia Artificial e aprendendo Engenharia de Prompting.
 
 <br>
 
