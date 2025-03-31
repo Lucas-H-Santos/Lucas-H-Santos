@@ -1,16 +1,16 @@
-# Olá, eu sou Lucas 👋
+# Olá, eu sou Lucas Santos 👋
 
 <div align="center">
   <img src="https://seu-banner-personalizado.jpg" width="800px">
 </div>
 
 ## 💫 Sobre mim
-Desenvolvedor apaixonado por Programação, IA e Roboticas. Atualmente trabalhando com Programção com IA e aprendendo mais sobre Engenharia de Prompting.
+Desenvolvedor apaixonado por Programação Web, Inteligencia artificial e Tecnologia RObotica. Atualmente trabalhando com Programação WEB utilizando Inteligencia Artificial e aprendendo Engenharia de Prompting.
 
 <br>
 
 ## 🌐 Redes Sociais
-[![LinkedIn](https://www.linkedin.com/in/lucas-santos-8934b6231)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-santos-8934b6231)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-site.com)
 
